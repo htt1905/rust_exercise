@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "ownership-borrowing"
 version = "0.1.0"
+
+[[package]]
+name = "rust_exercise_3"
+version = "0.1.0"
